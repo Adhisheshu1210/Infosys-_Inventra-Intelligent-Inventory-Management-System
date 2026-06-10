@@ -282,10 +282,11 @@ This project is licensed under the MIT License.
 ## 👤 Author
 
 Inventra Auth Team
+Angothu Adhisheshu
 
 ## 📧 Support
 
-For support, email support@inventra.com or open an issue.
+For support, email angothuadhisheshu@gmail.com or open an issue.
 
 ---
 
